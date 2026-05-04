@@ -1,0 +1,20 @@
+# Server JARs - these should not be tracked
+server/server.jar
+server/server-*.jar*
+limbo/server.jar
+limbo/server-*.jar*
+velocity/server.jar
+velocity/server-*.jar*
+
+# Logs
+server/logs/
+limbo/logs/
+velocity/logs/
+*.log
+
+# Caches and temp files
+server/cache/
+*.swp
+*.swo
+*~
+.DS_Store
