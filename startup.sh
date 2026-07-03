@@ -14,7 +14,7 @@ cd ..
 
 echo "Starting Paper server..."
 cd server
-java -jar server.jar
+java -jar paper.jar
 
 echo "------------------------------------------------------------------------------"
 echo "You have stopped the server!"
